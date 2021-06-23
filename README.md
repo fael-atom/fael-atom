@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="right" src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47oeoixpqnw6kt0ytmah6acswz8np8lozv9w1td93y&rid=giphy.gif&ct=g" width="380" height="340"/>
+<img align="right" src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47oeoixpqnw6kt0ytmah6acswz8np8lozv9w1td93y&rid=giphy.gif&ct=g" width="350" height="313"/>
 
 
 I'm Rafael Mota from Brazil. 
