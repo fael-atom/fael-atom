@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center"><i>“If I have seen further it is by standing on the shoulders of Giants.”</it></h3>
 <h6 align="center">Sir Isaac Newton</h6>
 
-
+<br>
+<br>
 
 <img align="right" src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47oeoixpqnw6kt0ytmah6acswz8np8lozv9w1td93y&rid=giphy.gif&ct=g" width="350" height="313"/>
 
