@@ -40,9 +40,9 @@ I love computing and science (former Engineering Physics student).
 <img align="center" alt="rafael-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width=100%;">
 <!-- <a href="mailto:fael.folow@gmail.com">
 <img align="center" alt="rafael-gmail" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" style="max-width=100%;">
--->
+
 <a href="https://www.youtube.com/channel/UCUX0klsHx9lRiLwqn5MvcwA">
-<img align="center" alt="rafael-youtube" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721679-youtube_108064.png" style="max-width=100%;">
+<img align="center" alt="rafael-youtube" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721679-youtube_108064.png" style="max-width=100%;">-->
   
 
   
