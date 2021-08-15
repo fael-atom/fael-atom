@@ -28,7 +28,7 @@ I'm Rafael Mota from Brazil.
 I love computing and science (former Engineering Physics student).
 
 - 🔭 I’m currently studying **Bachelor of Information Technology**.
-- 🌱 I’m currently learning **Microsoft Excel**.
+- 🌱 I’m currently learning **HTML, CSS and JavaScript**.
 - 💬 Ask me about **LaTeX**, **Linux**, **Free Softwares**.
 - 📫 How to reach me: fael.folow@gmail.com
 - ⚡ Fun fact: My thoughts...
