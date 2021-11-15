@@ -27,7 +27,7 @@ I love computing and science (former Engineering Physics student).
 <div> 
   <a href="https://www.youtube.com/c/MundoExatas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato.mundoexatas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/faelmota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/faelmota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank"></a>  
 </div>
   
 ## Some stats for you
