@@ -1,17 +1,5 @@
 <!--
-**fael-atom/fael-atom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**fael-atom/fael-atom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hello, guys! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> 😎 </h1> 
 
@@ -35,16 +23,12 @@ I love computing and science (former Engineering Physics student).
 
 
 ## Contact
-
-<a href="https://www.linkedin.com/in/faelmota/">
-<img align="center" alt="rafael-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width=100%;">
-<!-- <a href="mailto:fael.folow@gmail.com">
-<img align="center" alt="rafael-gmail" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" style="max-width=100%;">
-
-<a href="https://www.youtube.com/channel/UCUX0klsHx9lRiLwqn5MvcwA">
-<img align="center" alt="rafael-youtube" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721679-youtube_108064.png" style="max-width=100%;">-->
-  
-
+ 
+<div> 
+  <a href="https://www.youtube.com/c/MundoExatas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.mundoexatas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/faelmota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
   
 ## Some stats for you
 
