@@ -18,7 +18,6 @@ I love computing and science (former Engineering Physics student).
 - 🔭 I’m currently studying **Bachelor of Information Technology**.
 - 🌱 I’m currently learning **HTML5, CSS3 and JavaScript**.
 - 💬 Ask me about **LaTeX**, **Linux**, **Free Softwares**.
-- 📫 How to reach me: fael.folow@gmail.com
 - ⚡ Fun fact: My thoughts...
 
 
