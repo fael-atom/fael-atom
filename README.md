@@ -1,7 +1,7 @@
 <!--
 **fael-atom/fael-atom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h1 align="center">Hello, guys! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> 😎 </h1> 
+<h1 align="center">Hello, guys! 😎 </h1> 
 
 <h3 align="center"><i>“If I have seen further it is by standing on the shoulders of Giants.”</it></h3>
 <h6 align="center">Sir Isaac Newton</h6>
