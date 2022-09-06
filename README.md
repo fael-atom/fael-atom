@@ -44,7 +44,7 @@ I love computing and science (former Engineering Physics student).
 ## Some stats for you
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fael-atom&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fael-atom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
   
