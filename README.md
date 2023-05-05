@@ -12,7 +12,7 @@
 <p>I'm Rafael Mota from Brazil.</p>
 
 - 🔭 I’m currently studying **Bachelor of Information Technology** at Univesp.
-- 🌱 I’m learning **TypeScript, React and Tailwind CSS**.
+- 🌱 I’m learning **TypeScript, React and Tailwind**.
 - 💬 Ask me about **Frontend stuff**.
 - ⚡ Fun fact: My thoughts...
 
