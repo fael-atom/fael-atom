@@ -12,7 +12,7 @@
 <p>I'm Rafael Mota from Brazil.</p>
 
 - 🔭 I’m currently studying **Bachelor of Information Technology** at Univesp.
-- 🌱 I’m learning **TypeScript, React and Tailwind**.
+- 🌱 I’m learning **TypeScript, React, Tailwind and PHP**.
 - 💬 Ask me about **Frontend stuff**.
 - ⚡ Fun fact: My thoughts...
 
@@ -45,6 +45,10 @@
   <img align="center" title="Tailwind CSS" alt="Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 <!-- Python -->
   <img align="center" title="Python" alt="Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <!-- PHP -->
+  <img align="center" title="PHP" alt="PHP" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+ <!-- WordPress -->
+  <img align="center" title="WordPress" alt="WordPress" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 <!-- Git -->
   <img align="center" title="Git" alt="Git" height="39" width="52" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 <!-- Linux -->
