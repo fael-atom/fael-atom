@@ -49,9 +49,13 @@
   <img align="center" title="PHP" alt="PHP" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  <!-- WordPress -->
   <img align="center" title="WordPress" alt="WordPress" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-<!-- Git -->
+ <!-- Figma -->
+  <img align="center" title="Figma" alt="Figma" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+ <!-- Vite -->
+ <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="39" height="39" alt="Vite">
+ <!-- Git -->
   <img align="center" title="Git" alt="Git" height="39" width="52" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-<!-- Linux -->
+ <!-- Linux -->
   <img align="center" title="Linux" alt="Linux" height="39" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
   
