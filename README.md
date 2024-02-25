@@ -38,11 +38,11 @@
 <!-- JavaScript -->
   <img align="center" title="JavaScript" alt="JavaScript" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <!-- TypeScript -->
-  <img align="center" title="TypeScript" alt="Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" title="TypeScript" alt="TypeScript" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  <!-- React -->
-  <img align="center" title="React" alt="Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" title="React" alt="React" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <!-- Tailwind CSS -->
-  <img align="center" title="Tailwind CSS" alt="Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" title="Tailwind CSS" alt="TailwindCSS" height="39" width="52" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 <!-- Python -->
   <img align="center" title="Python" alt="Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <!-- PHP -->
@@ -50,9 +50,9 @@
  <!-- WordPress -->
   <img align="center" title="WordPress" alt="WordPress" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
  <!-- Figma -->
-  <img align="center" title="Figma" alt="Figma" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Figma" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  <!-- Vite -->
- <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="39" height="39" alt="Vite">
+ <img align="center" title="Vitejs" alt="Vite" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="39" height="39">
  <!-- Git -->
   <img align="center" title="Git" alt="Git" height="39" width="52" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
  <!-- Linux -->
