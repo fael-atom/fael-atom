@@ -1,4 +1,4 @@
-<h1 align="center">Hello, guys! 😎 </h1> 
+<h1 align="center">Welcome to my home!</h1> 
 
 <h3 align="center"><i>“If I have seen further it is by standing on the shoulders of Giants.”</it></h3>
 <h6 align="center">Sir Isaac Newton</h6>
@@ -12,7 +12,7 @@
 <p>I'm Rafael Mota from Brazil.</p>
 
 - 🔭 I’m currently studying **Bachelor of Information Technology** at Univesp.
-- 🌱 I’m learning **TypeScript, React, Tailwind and PHP**.
+- 🌱 I’ve learning **TypeScript, Node.js, React and React Native**.
 - 💬 Ask me about **Frontend stuff**.
 - ⚡ Fun fact: My thoughts...
 
