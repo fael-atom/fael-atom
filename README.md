@@ -11,9 +11,9 @@
 
 <p>I'm Rafael Mota from Brazil.</p>
 
-- 🔭 I’m currently studying **Bachelor of Information Technology** at Univesp.
-- 🌱 I’ve learning **TypeScript, Node.js, React and React Native**.
-- 💬 Ask me about **Frontend stuff**.
+- 🔭 I’m a **QA Engineer** learning new things everyday.
+- 🌱 I’ve learning **Cypress, Postman, Playwright and Automated Tests**.
+- 💬 Ask me about **QA stuff**.
 - ⚡ Fun fact: My thoughts...
 
 
