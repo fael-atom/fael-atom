@@ -11,9 +11,9 @@
 
 <p>I'm Rafael Mota from Brazil.</p>
 
-- 🔭 I’m a **QA Engineer** learning new things everyday.
-- 🌱 I’ve learning **Cypress, Postman, Playwright and Automated Tests**.
-- 💬 Ask me about **QA stuff**.
+- 🔭 I’m a **Automation Manager** learning about AI everyday.
+- 🌱 I’ve learning **a lot of new technologies**.
+- 💬 Ask me about **Frontend, Backend, Quality Assurance, AI Automation**.
 - ⚡ Fun fact: My thoughts...
 
 
