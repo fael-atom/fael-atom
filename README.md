@@ -77,9 +77,9 @@
   
   
 ## Some stats for you
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=fael-atom&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=2a5d93&icon_color=ecbd3c&ring_color=50ed31&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/fael-atom)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fael-atom&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fael-atom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=fael-atom&theme=default&hide_border=false&border_radius=4.5&locale=en&short_numbers=true&mode=weekly&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://github.com/fael-atom)
 
   
   
