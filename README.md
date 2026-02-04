@@ -9,12 +9,22 @@
 <img align="right" src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47oeoixpqnw6kt0ytmah6acswz8np8lozv9w1td93y&rid=giphy.gif&ct=g" width="350" height="313"/>
 <br>
 
-<p>I'm Rafael Mota from Brazil.</p>
+**Hi there, I'm Rafael!** 👋
+<br>
 
-- 🔭 I’m a **Automation Manager** learning about AI everyday.
-- 🌱 I’ve learning **a lot of new technologies**.
-- 💬 Ask me about **Frontend, Backend, Quality Assurance, AI Automation**.
-- ⚡ Fun fact: My thoughts...
+**Automation Manager & AI Workflow Designer**
+<br>
+
+🔭 **Currently:** Building scalable AI solutions and automated ecosystems at Rafah Tech.
+
+🚀 **Tech Stack:** n8n, TypeScript, React, Next.js, Supabase, and AI Agent Orchestration.
+
+⚡ **Impact:** Optimizing data flows and enhancing UX through intelligent API connectivity.
+
+💬 **Let's talk about:** AI Automation, Software Quality (QA), and the future of Low-Code.
+
+<br>
+*“Turning complex manual processes into elegant automated code.”*
 
 
 ## Contact
@@ -23,9 +33,9 @@
 <!-- LinkedIn  -->
   <a href="https://www.linkedin.com/in/faelmota/" title="Perfil do LinkedIn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank"></a>  
 <!-- YouTube  -->
-  <a href="https://www.youtube.com/channel/UCQeEuyv6mQbRjpuBrfWYrjw" title="Canal do YouTube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@rafahtech" title="Canal do YouTube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <!-- Gmail  -->
-  <a href = "mailto:rafaelmota.dev@gmail.com" title="E-mail para contato"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@rafahtech.com" title="E-mail para contato"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## Technologies
@@ -53,6 +63,12 @@
   <img align="center" alt="Figma" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  <!-- Vite -->
  <img align="center" title="Vitejs" alt="Vite" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="39" height="39">
+ <!-- Supabase -->
+ <img align="center" title="Supabase" alt="Supabase" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/supabase/supabase-original.svg" width="39" height="39">
+ <!-- Netlify -->
+ <img align="center" title="Netlify" alt="Netlify" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/netlify/netlify-original.svg" width="39" height="39">
+ <!-- Cypress -->
+ <img align="center" title="Cypress" alt="Cypress" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cypressio/cypressio-original.svg" width="39" height="39">
  <!-- Git -->
   <img align="center" title="Git" alt="Git" height="39" width="52" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
  <!-- Linux -->
